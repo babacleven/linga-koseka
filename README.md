@@ -1,106 +1,98 @@
 <div align="center">
 
-# 🦷 Linga Koseka
+# Linga Koseka
 
-**Site web pour cabinet dentaire — Projet de formation**
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![Responsive](https://img.shields.io/badge/Responsive-✅-green?style=for-the-badge)](#)
+Site web pour cabinet dentaire
 
 </div>
 
 ---
 
-## 📋 À propos
+## A propos
 
-**Linga Koseka** est un site web vitrine pour un cabinet dentaire situé à Brazzaville, Congo. Ce projet a été réalisé dans le cadre de la formation **Akieni Académie — Cohorte 2**.
+Linga Koseka est un site web vitrine pour un cabinet dentaire situe a Brazzaville, Congo. Ce projet a ete realise dans le cadre de la formation **Akieni Academie, Cohorte 2**.
 
-Le site présente les services dentaires offerts par le cabinet, avec un design moderne inspiré de sites professionnels du domaine médical.
+Le site presente les services dentaires offerts par le cabinet, avec un design moderne inspire de sites professionnels du domaine medical.
 
-## 🌐 Pages du site
+## Pages du site
 
 | Page | Description |
 |------|-------------|
-| **Accueil** | Page d'accueil avec hero, services, section "Pourquoi nous" et CTA |
-| **Services** | Liste détaillée des soins dentaires proposés |
-| **Contact** | Formulaire de contact, informations et carte Google Maps |
+| Accueil | Page d'accueil avec hero, services, section "Pourquoi nous" et CTA |
+| Services | Liste detaillee des soins dentaires proposes |
+| Contact | Formulaire de contact, informations et carte Google Maps |
 
-## 🎨 Design
+## Design
 
-- **Palette de couleurs** : Bleu foncé `#154462` • Rouge accent `#8F0505` • Bleu clair `#008BE4`
+- **Palette de couleurs** : Bleu fonce 154462, Rouge accent 8F0505, Bleu clair 008BE4
 - **Typographie** : Montserrat (titres) + Roboto (texte) via Google Fonts CDN
-- **Icônes** : SVG inline (aucune dépendance externe)
-- **Animations** : Préchargeur animé, compteurs incrémentaux, effets hover
-- **Responsive** : Adapté mobile, tablette et desktop
+- **Icones** : SVG inline (aucune dependance externe)
+- **Animations** : Prechargeur anime, compteurs incrementaux, effets hover
+- **Responsive** : Adapte mobile, tablette et desktop
 
-## ⚡ Fonctionnalités
+## Fonctionnalites
 
-- Préchargeur 100% CSS (aucun JavaScript pour l'animation)
-- Compteurs animés (IntersectionObserver) pour les statistiques
+- Prechargeur 100% CSS (aucun JavaScript pour l'animation)
+- Compteurs animes (IntersectionObserver) pour les statistiques
 - Menu hamburger responsive
 - Sections hero avec overlay sombre et image de fond
-- Cartes de services avec dégradé et ombres portées
+- Cartes de services avec degrade et ombres porteuses
 - Formulaire de contact fonctionnel
-- Google Maps intégré
-- Boutons avec effets hover transparents + flèches animées
+- Google Maps integre
+- Boutons avec effets hover transparents et fleches animees
 
-## 🛠️ Technologies
+## Technologies
 
 | Technologie | Usage |
 |------------|-------|
-| HTML5 | Structure sémantique |
+| HTML5 | Structure semantique |
 | CSS3 | Styles, animations, responsive |
-| JavaScript | Compteurs animés uniquement |
+| JavaScript | Compteurs animes uniquement |
 | Google Fonts | Montserrat + Roboto |
-| SVG inline | Toutes les icônes |
+| SVG inline | Toutes les icones |
 | Google Maps | Carte embed |
 
-> **Aucun framework, aucune bibliothèque CSS, aucun préprocesseur.** Tout est codé à la main.
+Aucun framework, aucune bibliotheque CSS, aucun preprocesseur. Tout est code a la main.
 
-## 🚀 Installation
+## Installation
 
 ```bash
-# Cloner le repository
 git clone https://github.com/babacleven/linga-koseka.git
-
-# Ouvrir le fichier index.html dans un navigateur
-open index.html
 ```
 
-## 📁 Structure du projet
+Ouvrir le fichier index.html dans un navigateur.
+
+## Structure du projet
 
 ```
 linga-koseka/
-├── index.html          # Page d'accueil
-├── services.html       # Page services
-├── contact.html        # Page contact
-├── style.css           # Styles globaux
-└── assets/             # Images du projet
-    ├── cabinet-1.jpg
-    ├── cabinet-2.jpg
-    ├── doctor-1.jpg
-    ├── doctor-2.jpg
-    ├── doctor-3.jpg
-    ├── hero-cabinet.jpg
-    ├── hero-patient.jpg
-    └── hero-team.jpg
+  index.html
+  services.html
+  contact.html
+  style.css
+  assets/
+    Blanchiment-dentaire-skin-chic-paris-2.jpg
+    cabinet-1.jpg
+    cabinet-2.jpg
+    dentiste.webp
+    doctor-1.jpg
+    doctor-2.jpg
+    doctor-3.jpg
+    DSC1480-1384x1536.jpg
+    FACIAL.jpg
+    header.jpg
+    hero-cabinet.jpg
+    hero-patient.jpg
+    hero-team.jpg
+    operation.jpg
+    Parodontie.jpg
+    Un-homme-avec-des-dents-parfaites.webp
 ```
 
-## 👨‍🏫 Formation
+## Formation
 
-Ce projet a été réalisé sous la supervision de :
+Ce projet a ete realise sous la supervision de Akieni Academie, Cohorte 2.
 
-**Akieni Académie — Cohorte 2**
+## Licence
 
-## 📄 Licence
-
-Ce projet est un exercise de formation. Tous droits réservés.
-
----
-
-<div align="center">
-
-Fait avec ❤️ par **Akieni Académie Cohorte 2**
-
-</div>
+Ce projet est un exercice de formation. Tous droits reserves.
